@@ -1,0 +1,15 @@
+C:\Workspace\otherwork\automationexample\CountingSumPairs\bin\Debug\net6.0\CountingSumPairs.exe
+C:\Workspace\otherwork\automationexample\CountingSumPairs\bin\Debug\net6.0\CountingSumPairs.deps.json
+C:\Workspace\otherwork\automationexample\CountingSumPairs\bin\Debug\net6.0\CountingSumPairs.runtimeconfig.json
+C:\Workspace\otherwork\automationexample\CountingSumPairs\bin\Debug\net6.0\CountingSumPairs.dll
+C:\Workspace\otherwork\automationexample\CountingSumPairs\bin\Debug\net6.0\CountingSumPairs.pdb
+C:\Workspace\otherwork\automationexample\CountingSumPairs\obj\Debug\net6.0\CountingSumPairs.csproj.AssemblyReference.cache
+C:\Workspace\otherwork\automationexample\CountingSumPairs\obj\Debug\net6.0\CountingSumPairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\otherwork\automationexample\CountingSumPairs\obj\Debug\net6.0\CountingSumPairs.AssemblyInfoInputs.cache
+C:\Workspace\otherwork\automationexample\CountingSumPairs\obj\Debug\net6.0\CountingSumPairs.AssemblyInfo.cs
+C:\Workspace\otherwork\automationexample\CountingSumPairs\obj\Debug\net6.0\CountingSumPairs.csproj.CoreCompileInputs.cache
+C:\Workspace\otherwork\automationexample\CountingSumPairs\obj\Debug\net6.0\CountingSumPairs.dll
+C:\Workspace\otherwork\automationexample\CountingSumPairs\obj\Debug\net6.0\refint\CountingSumPairs.dll
+C:\Workspace\otherwork\automationexample\CountingSumPairs\obj\Debug\net6.0\CountingSumPairs.pdb
+C:\Workspace\otherwork\automationexample\CountingSumPairs\obj\Debug\net6.0\CountingSumPairs.genruntimeconfig.cache
+C:\Workspace\otherwork\automationexample\CountingSumPairs\obj\Debug\net6.0\ref\CountingSumPairs.dll
